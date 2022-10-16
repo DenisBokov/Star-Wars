@@ -11,6 +11,7 @@
 		EF0F39A228EF95BE00CE7AC9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0F39A128EF95BE00CE7AC9 /* ContentView.swift */; };
 		EF0F39A428EF95BF00CE7AC9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF0F39A328EF95BF00CE7AC9 /* Assets.xcassets */; };
 		EF0F39A728EF95BF00CE7AC9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF0F39A628EF95BF00CE7AC9 /* Preview Assets.xcassets */; };
+		EF0F39AE28EF95F800CE7AC9 /* StartViewScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF0F39AD28EF95F800CE7AC9 /* StartViewScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		EF0F39A128EF95BE00CE7AC9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EF0F39A328EF95BF00CE7AC9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EF0F39A628EF95BF00CE7AC9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EF0F39AD28EF95F800CE7AC9 /* StartViewScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartViewScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				EF0F399F28EF95BE00CE7AC9 /* Star_WarsApp.swift */,
 				EF0F39A128EF95BE00CE7AC9 /* ContentView.swift */,
+				EF0F39AD28EF95F800CE7AC9 /* StartViewScreen.swift */,
 				EF0F39A328EF95BF00CE7AC9 /* Assets.xcassets */,
 				EF0F39A528EF95BF00CE7AC9 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF0F39AE28EF95F800CE7AC9 /* StartViewScreen.swift in Sources */,
 				EF0F39A228EF95BE00CE7AC9 /* ContentView.swift in Sources */,
 				EF0F39A028EF95BE00CE7AC9 /* Star_WarsApp.swift in Sources */,
 			);
